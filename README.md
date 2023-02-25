@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Linzh1998
 - 👀 I’m interested in code
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning javaee springboot mybatis redis MQ
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
